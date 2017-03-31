@@ -1,0 +1,8 @@
+{
+    "name": "california_for_git",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "umb",
+    "contributors": [],
+    "dependencies": {}
+}
